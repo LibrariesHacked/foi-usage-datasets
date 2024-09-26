@@ -1,0 +1,109 @@
+"2. The top one hundred titles loaned, with a count of each for the year",,,
+,,,
+"Suggested format is a spreadsheet with column headings of 
+ISBN, 
+title, 
+author, 
+number of loans.",,,
+,,,
+ISBN,Title,Author,Loans
+9.7801E+12,"Queen's knickers, The","Allan, Nicholas",370
+9.78184E+12,Elmer and Butterfly,"McKee, David",321
+9.78024E+12,Wrecking ball,"Kinney, Jeff",318
+9.78178E+12,Elmer and the tune,"McKee, David",302
+9.78141E+12,Harry Potter and the philosopher's stone,"Rowling, J. K.",295
+9.78141E+12,Penguin,"Dunbar, Polly",288
+9.78141E+12,Selma the Snow Leopard Fairy,"Meadows, Daisy",277
+9.78185E+12,I am not sleepy and I will not go to bed : featuring Charlie and Lola,"Child, Lauren",259
+9.78141E+12,A dog with nice ears : featuring Charlie and Lola,"Child, Lauren",252
+9.78001E+12,The incredible book eating boy,"Jeffers, Oliver",241
+9.78141E+12,The brilliant world of Tom Gates,"Pichon, Liz",240
+9.78001E+12,Green eggs and ham,"Seuss, Dr",238
+9.78331E+12,The Rainbow Fish,"Pfister, Marcus",230
+9.78178E+12,Elmer and the race,"McKee, David",229
+9.78141E+12,The ugly five,"Donaldson, Julia",227
+9.78141E+12,Where's my teddy?,"Alborough, Jez",226
+9.78184E+12,Elmer and Aunt Zelda,"McKee, David",219
+9.78141E+12,Dogzombies rule (for now),"Pichon, Liz",218
+9.78086E+12,Izzy Gizmo,"Jones, Pip",214
+9.78144E+12,Oi Duck-billed platypus!,"Gray, Kes",208
+9.78141E+12,Epic adventure (kind of),"Pichon, Liz",208
+9.78141E+12,Yes! No. (Maybe...),"Pichon, Liz",205
+9.78014E+12,"mixed-up chameleon, The","Carle, Eric",200
+9.78141E+12,Monica the Marshmallow Fairy,"Meadows, Daisy",200
+9.78184E+12,Elmer,"McKee, David",199
+9.78151E+12,Meerkat mail,"Gravett, Emily",197
+9.78014E+12,The bad tempered ladybird,"Carle, Eric",197
+9.78153E+12,The world made a rainbow,"Robinson, Michelle (Michelle Jane)",195
+9.78151E+12,What the ladybird heard on holiday,"Donaldson, Julia",195
+9.78057E+12,Wolfie's secret,"Senior, Nicola",193
+9.78024E+12,Peppa's tiny creatures : a touch-and-feel playbook,"Archer, Mandy",191
+9.78141E+12,Superbat,"Carr, Matt",191
+9.78178E+12,Elmer and the monster,"McKee, David",189
+9.78151E+12,The gruffalo,"Donaldson, Julia",188
+9.78184E+12,Elmer and the big bird,"McKee, David",187
+9.78024E+12,Pants,"Andreae, Giles",187
+9.78014E+12,Rodrick rules,"Kinney, Jeff",187
+9.78141E+12,Maisy goes to the bookshop,"Cousins, Lucy",186
+9.78086E+12,The new friend,"Scheffler, Axel",185
+9.78141E+12,Perfectly Norman,"Percival, Tom",183
+9.78019E+12,The naughty knight,"Thomas, Vale?rie",183
+9.78001E+12,The Cat in the Hat,"Seuss, Dr",181
+9.78141E+12,This is not my hat,"Klassen, Jon",179
+9.78145E+12,The Everywhere Bear,"Donaldson, Julia",178
+9.78141E+12,Priya the Polar Bear Fairy,"Meadows, Daisy",178
+9.78024E+12,Find Teddy before bedtime : a lift-the-flap book,"Delmege, Sarah",176
+9.78001E+12,Three little monkeys,"Blake, Quentin",175
+9.78104E+12,Who's hiding in the park?,"Scheffler, Axel",174
+9.78184E+12,The birthday party,"Reid, Camilla",174
+9.78024E+12,My dad is awesome : by Bluey and Bingo,Bluey (Fictitious character),173
+9.78141E+12,Elodie the lamb fairy,"Meadows, Daisy",172
+9.7807E+12,Did you do this poo?,"Rowland, Lucy (Children's author)",171
+9.78019E+12,Mirabelle takes charge,"Muncaster, Harriet",170
+9.78141E+12,Maisy's sports day,"Cousins, Lucy",170
+9.78185E+12,The giant jam sandwich,"Lord, John Vernon",169
+9.78055E+12,Shark in the park!,"Sharratt, Nick",169
+9.7807E+12,Cat Kid Comic Club. Perspectives,"Beard, George (Fictitious character)",169
+9.78019E+12,Winnie the Witch,"Thomas, Valerie",169
+9.78024E+12,The giant jumperee,"Donaldson, Julia",166
+9.78014E+12,The further adventures of the Owl and the Pussy-cat,"Donaldson, Julia",166
+9.78014E+12,Diary of a wimpy kid,"Kinney, Jeff",166
+9.78086E+12,Billy and the dragon,"Shireen, Nadia",165
+9.78186E+12,Eat your peas,"Gray, Kes",164
+9.78019E+12,Mirabelle and the naughty bat kittens,"Muncaster, Harriet",164
+9.78001E+12,A Day at the fire station,"Scarry, Richard",164
+9.78153E+12,The woolly bear caterpillar,"Donaldson, Julia",163
+9.78014E+12,Matilda,"Dahl, Roald",162
+9.78024E+12,Shadowlands,"Phillipson, Fiona",162
+9.78151E+12,The Gruffalo's child,"Donaldson, Julia",161
+9.78147E+12,How to nab a rabbit : by the Big Bad Wolf,"Freedman, Claire",161
+9.78141E+12,What monster?,"Pichon, Liz",160
+9.78024E+12,The rainy day,NULL,159
+9.78178E+12,Fergal is fuming!,"Starling, Robert",159
+9.7807E+12,There's no such thing as... dragons,"Rowland, Lucy (Children's author)",158
+9.78024E+12,Bingo,NULL,158
+9.78147E+12,Carnival catastro-pea!,"Hendra, Sue",158
+9.78178E+12,I don't want to wash my hands!,"Ross, Tony",158
+9.78074E+12,Owl babies,"Waddell, Martin",157
+9.78024E+12,The very hungry caterpillar's jungle hide & seek : a finger trail lift-the-flap book,NULL,156
+9.78024E+12,Peppa at the beach,"Archer, Mandy",156
+9.78141E+12,A quiet night in,"Murphy, Jill",156
+9.78024E+12,Diper o?verlo?de,"Kinney, Jeff",156
+9.78141E+12,Be brave little penguin - (Little Library of Big Feelings Collection),"Andreae, Giles",155
+9.7807E+12,Cat Kid Comic Club. On purpose,"Pilkey, Dav",155
+9.78024E+12,The Very Hungry Caterpillar eats breakfast : a counting book,NULL,154
+9.78034E+12,Six dinner Sid,"Moore, Inga",154
+9.78141E+12,King Tiger comes to play,"Holowaty, Lauren",153
+9.78001E+12,A day at the airport,"Scarry, Richard",152
+9.78024E+12,Barky boats,NULL,152
+9.78024E+12,Swim school,NULL,151
+9.78024E+12,Animals in the wild : with adorable animals to touch and discover!,NULL,151
+9.78178E+12,Dreamweaver,"Freedman, Claire",151
+9.78141E+12,Jasmine Whizzpaws' to the Rescue,"Meadows, Daisy",150
+9.78074E+12,Max,"Graham, Bob",149
+9.78145E+12,Tidy,"Gravett, Emily",148
+9.78141E+12,Meghan the wedding sparkle fairy,"Meadows, Daisy",147
+9.78144E+12,Oi aardvark!,"Gray, Kes",147
+9.78145E+12,"The girl, the bear and the magic shoes","Donaldson, Julia",147
+9.78141E+12,Penelope the foal fairy,"Meadows, Daisy",146
+9.78019E+12,Isadora Moon has a sleepover,"Muncaster, Harriet",145
