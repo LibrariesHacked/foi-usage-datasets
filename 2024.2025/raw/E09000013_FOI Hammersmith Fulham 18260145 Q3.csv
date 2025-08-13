@@ -1,0 +1,78 @@
+FOI: 18260145,London Borough of Hammersmith & Fulham,
+"3. A count of reservations, per library branch, per month",,
+,,
+"A reservation is a request for an item to be held for the user. The branch recorded should be the branch that the item is requested to be picked up at. Suggested format is a spreadsheet with column headings of month, branch, count of reservations. ",,
+,,
+Hold Created Month,Hold Pickup Library Desc,Count (Hold Id)
+2024-04, Askew Road Library,262 
+, Avonmore Library,21 
+, Fulham Library,"1,174 "
+, Hammersmith Library,699 
+, Home Library Service,51 
+, Shepherd's Bush Library,426 
+2024-05, Askew Road Library,256 
+, Avonmore Library,27 
+, Fulham Library,"1,049 "
+, Hammersmith Library,731 
+, Home Library Service,60 
+, Shepherd's Bush Library,474 
+2024-06, Askew Road Library,210 
+, Avonmore Library,29 
+, Fulham Library,"1,107 "
+, Hammersmith Library,704 
+, Home Library Service,37 
+, Shepherd's Bush Library,510 
+2024-07, Askew Road Library,227 
+, Avonmore Library,43 
+, Fulham Library,"1,252 "
+, Hammersmith Library,797 
+, Home Library Service,50 
+, Shepherd's Bush Library,479 
+2024-08, Askew Road Library,208 
+, Avonmore Library,41 
+, Fulham Library,"1,175 "
+, Hammersmith Library,875 
+, Home Library Service,66 
+, Shepherd's Bush Library,555 
+2024-09, Askew Road Library,257 
+, Avonmore Library,42 
+, Fulham Library,"1,282 "
+, Hammersmith Library,"1,105 "
+, Home Library Service,43 
+, Shepherd's Bush Library,676 
+2024-10, Askew Road Library,266 
+, Avonmore Library,38 
+, Fulham Library,"1,244 "
+, Hammersmith Library,820 
+, Home Library Service,41 
+, Shepherd's Bush Library,649 
+2024-11, Askew Road Library,348 
+, Avonmore Library,37 
+, Fulham Library,"1,385 "
+, Hammersmith Library,507 
+, Home Library Service,33 
+, Shepherd's Bush Library,726 
+2024-12, Askew Road Library,277 
+, Avonmore Library,34 
+, Fulham Library,"1,019 "
+, Hammersmith Library,245 
+, Home Library Service,26 
+, Shepherd's Bush Library,613 
+2025-01, Askew Road Library,436 
+, Avonmore Library,64 
+, Fulham Library,"1,613 "
+, Hammersmith Library,876 
+, Home Library Service,34 
+, Shepherd's Bush Library,732 
+2025-02, Askew Road Library,296 
+, Avonmore Library,81 
+, Fulham Library,"1,313 "
+, Hammersmith Library,877 
+, Home Library Service,22 
+, Shepherd's Bush Library,513 
+2025-03, Askew Road Library,399 
+, Avonmore Library,64 
+, Fulham Library,"1,224 "
+, Hammersmith Library,880 
+, Home Library Service,53 
+, Shepherd's Bush Library,718 

@@ -1,0 +1,19 @@
+FOI: 18260145,London Borough of Hammersmith & Fulham,,,,,
+"1. A count of loans, per library branch, per month",,,,,,
+,,,,,,
+"A loan being an issue or renewal of library stock, at the branch specified. Suggested format is a spreadsheet with column headings of month, branch, count of loans. ",,,,,,
+,,,,,,
+Month,Issues & Renewals Totals by Library Site,,,,,
+,Askew Road,Avonmore ,Fulham ,Hammersmith,Home Library Service,Shepherd's Bush
+2024-04,"2,414",100,"10,858","7,595","1,392","5,198"
+2024-05,"2,436",119,"10,567","7,522","1,215","5,038"
+2024-06,"1,974",116,"9,383","6,789","1,055","4,826"
+2024-07,"2,277",103,"10,895","6,962","1,104","5,234"
+2024-08,"2,333",131,"11,130","6,872","1,067","5,634"
+2024-09,"2,253",182,"11,272","7,468","1,030","5,249"
+2024-10,"2,540",170,"11,983","7,826",773,"5,754"
+2024-11,"2,692",129,"11,987","6,525","1,117","5,588"
+2024-12,"2,075",118,"10,154","2,616",938,"4,629"
+2025-01,"3,155",185,"11,895","7,896","1,184","5,875"
+2025-02,"2,620",154,"10,552","7,361",540,"4,712"
+2025-03,"2,549",175,"11,576","7,899",874,"5,383"
